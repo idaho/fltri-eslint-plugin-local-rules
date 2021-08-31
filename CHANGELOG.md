@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.2...1.0.3) (2021-08-31)
+
+
+### Bug Fixes
+
+* return object ([#6](https://github.com/idaho/fltri-eslint-plugin-local-rules/issues/6)) ([e543b4a](https://github.com/idaho/fltri-eslint-plugin-local-rules/commit/e543b4a46c3ba4415a694cf05f823c2bbcd50110))
+
 ## [1.0.2](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.1...1.0.2) (2021-08-31)
 
 
