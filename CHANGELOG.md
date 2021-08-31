@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.1...1.0.2) (2021-08-31)
+
+
+### Bug Fixes
+
+* add semantic release npm ([#5](https://github.com/idaho/fltri-eslint-plugin-local-rules/issues/5)) ([5ac0563](https://github.com/idaho/fltri-eslint-plugin-local-rules/commit/5ac0563e7d9aa2f5f104a37b53b8be1a282c59d5))
+
 ## [1.0.1](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.0...1.0.1) (2021-08-31)
 
 
