@@ -3,5 +3,6 @@
 .vscode/
 src/
 .eslintrc.json
+.eslintignore
 .releaserc.json
-.tsconfig.json
+tsconfig.json
