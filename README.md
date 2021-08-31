@@ -1,0 +1,1 @@
+# @fltri/eslint-plugin-local-rules
