@@ -1,6 +1,6 @@
 let rulesDirectories: string[] = [];
 
-export default {
+export = {
   get rules (): Record<string, any> {
     if (rulesDirectories.length === 0) {
       throw new Error('no custom local rule directory defined');
