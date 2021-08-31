@@ -15,7 +15,7 @@ export = {
       throw new Error('no rules found');
     }
 
-    return rules;
+    return rules[0];
   },
 
   addDirectories (addDirectories: string[]): void {
