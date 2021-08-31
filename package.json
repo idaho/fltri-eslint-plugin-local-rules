@@ -12,6 +12,14 @@
   },
   "author": "idaho",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idaho/fltri-eslint-plugin-local-rules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idaho/fltri-eslint-plugin-local-rules/issues"
+  },
+  "homepage": "https://github.com/idaho/fltri-eslint-plugin-local-rules#readme",
   "devDependencies": {
     "@fltri/eslint-config": "1.0.2",
     "@semantic-release/changelog": "5.0.1",
