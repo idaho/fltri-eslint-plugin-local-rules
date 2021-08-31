@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.0...1.0.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* package links ([#4](https://github.com/idaho/fltri-eslint-plugin-local-rules/issues/4)) ([2714cce](https://github.com/idaho/fltri-eslint-plugin-local-rules/commit/2714ccee980e918c08ddbd74a1f0a7e42d61e3ea))
+
 # 1.0.0 (2021-08-31)
 
 
