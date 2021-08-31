@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "compile": "rimraf lib/ && npx tsc",
     "prelint": "npm run compile",
