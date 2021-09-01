@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.3...1.1.0) (2021-09-01)
+
+
+### Features
+
+* implement tests ([#7](https://github.com/idaho/fltri-eslint-plugin-local-rules/issues/7)) ([91d4408](https://github.com/idaho/fltri-eslint-plugin-local-rules/commit/91d4408b13f9b0132256efe5c28e77077198c139))
+
 ## [1.0.3](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.2...1.0.3) (2021-08-31)
 
 
