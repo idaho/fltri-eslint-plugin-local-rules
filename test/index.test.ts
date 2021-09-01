@@ -52,7 +52,7 @@ test('Returns an object with all rules from only one folder.', (): void => {
   expect(Object.keys(rules)).toHaveLength(2);
 });
 
-test('Returns an object with all rules from only multiple folder.', (): void => {
+test('Returns an object with all rules from multiple folder.', (): void => {
   const localRulesPlugin = require('../src');
 
   localRulesPlugin.addDirectories([
