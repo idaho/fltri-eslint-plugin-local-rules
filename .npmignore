@@ -6,3 +6,5 @@ src/
 .eslintignore
 .releaserc.json
 tsconfig.json
+test/
+jest.config.js
