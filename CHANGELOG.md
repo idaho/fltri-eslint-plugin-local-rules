@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.1.0...1.1.1) (2021-09-01)
+
+
+### Bug Fixes
+
+* remove dist folder from git and add to .gitingore ([#8](https://github.com/idaho/fltri-eslint-plugin-local-rules/issues/8)) ([08ac634](https://github.com/idaho/fltri-eslint-plugin-local-rules/commit/08ac634f358b185968d69dbecdc2ba420ca31080))
+
 # [1.1.0](https://github.com/idaho/fltri-eslint-plugin-local-rules/compare/1.0.3...1.1.0) (2021-09-01)
 
 
