@@ -1,6 +1,6 @@
 # @fltri/eslint-plugin-local-rules
 
-Define local rules for eslint without a having an extra package.
+Define local rules for eslint without having an extra package.
 
 Install:
 

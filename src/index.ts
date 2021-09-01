@@ -1,21 +1,26 @@
+import { areDirectoriesAvailable } from './areDirectoriesAvailable';
+import { getRulesFromDirectories } from './getRulesFromDirectories';
+
 let rulesDirectories: string[] = [];
 
 export = {
+
   get rules (): Record<string, any> {
     if (rulesDirectories.length === 0) {
-      throw new Error('no custom local rule directory defined');
+      throw new Error(`no directory defined, use method 'addDirectories'`);
     }
 
-    const rules = rulesDirectories.
-      flatMap((directory): any =>
-      // eslint-disable-next-line global-require, @typescript-eslint/no-require-imports
-        require(directory));
-
-    if (rules.length === 0) {
-      throw new Error('no rules found');
+    if (!areDirectoriesAvailable(rulesDirectories)) {
+      throw new Error(`one of the folder did not exist.`);
     }
 
-    return rules[0];
+    const rules = getRulesFromDirectories(rulesDirectories);
+
+    if (Object.keys(rules).length === 0) {
+      throw new Error(`no rules found.`);
+    }
+
+    return rules;
   },
 
   addDirectories (addDirectories: string[]): void {
@@ -24,4 +29,5 @@ export = {
       ...addDirectories
     ];
   }
+
 };
