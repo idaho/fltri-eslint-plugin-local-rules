@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/idaho/fltri-eslint-plugin-local-rules#readme",
   "devDependencies": {
-    "@fltri/eslint-config": "1.0.21",
+    "@fltri/eslint-config": "1.0.26",
     "@semantic-release/changelog": "6.0.0",
     "@semantic-release/commit-analyzer": "9.0.1",
     "@semantic-release/git": "10.0.0",
