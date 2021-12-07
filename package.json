@@ -30,7 +30,7 @@
     "@semantic-release/npm": "8.0.3",
     "@semantic-release/release-notes-generator": "10.0.3",
     "@types/jest": "27.0.3",
-    "@types/node": "16.11.10",
+    "@types/node": "16.11.12",
     "eslint": "7.32.0",
     "jest": "27.3.1",
     "rimraf": "3.0.2",
