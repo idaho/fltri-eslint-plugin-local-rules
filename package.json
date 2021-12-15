@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/idaho/fltri-eslint-plugin-local-rules#readme",
   "devDependencies": {
-    "@fltri/eslint-config": "1.0.45",
+    "@fltri/eslint-config": "1.0.46",
     "@semantic-release/changelog": "6.0.1",
     "@semantic-release/commit-analyzer": "9.0.2",
     "@semantic-release/git": "10.0.1",
@@ -32,9 +32,9 @@
     "@types/jest": "27.0.3",
     "@types/node": "16.11.13",
     "eslint": "7.32.0",
-    "jest": "27.4.4",
+    "jest": "27.4.5",
     "rimraf": "3.0.2",
     "ts-jest": "27.1.1",
-    "typescript": "4.5.3"
+    "typescript": "4.5.4"
   }
 }
