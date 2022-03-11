@@ -20,5 +20,10 @@
         "project": "./**/tsconfig.json"
       }
     }
-  ]
+  ],
+  "rules": {
+    "unicorn/prefer-node-protocol": [
+      "off"
+    ]
+  }
 }
